@@ -1,2 +1,1 @@
-# Aydimir
-About of Aydimir
+
