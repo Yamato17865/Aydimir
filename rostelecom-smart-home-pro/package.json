@@ -1,0 +1,9 @@
+{
+  "name": "rostelecom-smart-home-pro",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Smart Home PRO — local-first smart home simulator for a competition demo",
+  "type": "module",
+  "scripts": {"start":"node src/server.js", "dev":"node --watch src/server.js", "test":"node --test", "check":"node --check src/server.js && node --check src/domain.js && node --check public/app.js"},
+  "engines": {"node": ">=20"}
+}
